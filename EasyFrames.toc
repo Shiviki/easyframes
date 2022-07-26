@@ -1,0 +1,25 @@
+## Title: EasyFrames Sirus.su
+## Interface: 30300
+## Notes: Make your unit frames colored and glorious.
+## Author: Usoltsev, Dister
+## SavedVariables: EasyFramesDB
+## OptionalDeps: Ace3, LibSharedMedia-3.0
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+Localization\enUS.lua
+Localization\ruRU.lua
+
+
+EasyFrames.lua
+
+Config.lua
+
+Modules\Core.lua
+Modules\General.lua
+Modules\Player.lua
+Modules\Target.lua
+Modules\Focus.lua
+Modules\Pet.lua
